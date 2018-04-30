@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\Speed King\Ver1\bin\Debug\Ver1.exe.config
+C:\Users\USER\Desktop\Speed King\Ver1\bin\Debug\Ver1.exe
+C:\Users\USER\Desktop\Speed King\Ver1\bin\Debug\Ver1.pdb
+C:\Users\USER\Desktop\Speed King\Ver1\obj\Debug\Ver1.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Speed King\Ver1\obj\Debug\Ver1.Form1.resources
+C:\Users\USER\Desktop\Speed King\Ver1\obj\Debug\Ver1.Properties.Resources.resources
+C:\Users\USER\Desktop\Speed King\Ver1\obj\Debug\Ver1.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Speed King\Ver1\obj\Debug\Ver1.exe
+C:\Users\USER\Desktop\Speed King\Ver1\obj\Debug\Ver1.pdb

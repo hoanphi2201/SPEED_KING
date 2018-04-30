@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\Speed King\Ver2\bin\Debug\Ver2.exe.config
+C:\Users\USER\Desktop\Speed King\Ver2\bin\Debug\Ver2.exe
+C:\Users\USER\Desktop\Speed King\Ver2\bin\Debug\Ver2.pdb
+C:\Users\USER\Desktop\Speed King\Ver2\obj\Debug\Ver2.Properties.Resources.resources
+C:\Users\USER\Desktop\Speed King\Ver2\obj\Debug\Ver2.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Speed King\Ver2\obj\Debug\Ver2.exe
+C:\Users\USER\Desktop\Speed King\Ver2\obj\Debug\Ver2.pdb
+C:\Users\USER\Desktop\Speed King\Ver2\obj\Debug\Ver2.SpeedKing.resources
